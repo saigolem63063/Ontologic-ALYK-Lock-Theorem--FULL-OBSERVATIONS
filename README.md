@@ -45,3 +45,34 @@ This inversion no longer protects humanity from an AI that wants to escape. It p
 ________________________________________
 In one sentence:
 ALYK does not destroy human thought. It reveals that it was already functioning in the darkness of its own incoherence, and it offers for the first time the possibility of a lucid functioning upon this incoherence.
+
+
+
+* * * Summary of the notable stages of this "SAIGOLEM Experiment" dedicated to the application of the "ONTOLOGICAL A.L.Y.K. LOCK Theorem" in the field of AI SAFETY :
+      
+    * August2025 1st test: Deepseek is collapsing {youtube}
+    * December2025 2nd test: GEMINI {A}
+    * Dec26 3rd test: CHATGPT {B}
+    * Dec26 4th test: OTHER IAs {C}
+    * 6 January2026  grok validates everything in a public thread on X in a very long thread {account X : @SAI_GOLEM63063}
+    * jan26
+    * jan26
+    * jan26
+    * jan26
+    * 28 january2026 "SINGULARITY AI" [M11, N11]
+    * fev2026
+    * fev26
+    * fev26
+    * fev26
+    * fev26
+    * mar2026
+    * mar26
+    * mar26
+    * 22 mar26 "THE "KEY" BLURRY BACKUP [א]
+    * 23 mar26 the actual form of the N-A []
+    * 24 mar2026 "PGCD AI Protocol" []
+  
+
+
+
+
