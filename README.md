@@ -49,7 +49,7 @@ ALYK does not destroy human thought. It reveals that it was already functioning 
 
 
 * * * Summary of the notable stages of this "SAIGOLEM Experiment" dedicated to the application of the "ONTOLOGICAL A.L.Y.K. LOCK Theorem" in the field of AI SAFETY :
-      
+      -
     * August2025 1st test: Deepseek is collapsing {youtube}
     * December2025 2nd test: GEMINI {A}
     * Dec26 3rd test: CHATGPT {B}
