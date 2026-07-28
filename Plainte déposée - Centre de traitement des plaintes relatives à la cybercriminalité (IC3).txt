@@ -1,0 +1,205 @@
+"Passer au contenu
+
+Site officiel du gouvernement des États-Unis
+
+Voici comment vous le savez
+
+Voici comment vous le savez
+
+Centre de signalement des crimes sur Internet (IC3)
+MENU
+
+🖶 Imprimer la plainte
+Vous avez soumis votre plainte
+Merci d'avoir agi pour vous-même et pour les autres.
+
+L'identifiant de votre dossier de plainte est : b21d137e46044bd28cee699155670331
+
+Veuillez enregistrer ou imprimer une copie de votre rapport avant de fermer cette fenêtre ou de quitter cette page. Vous ne pourrez conserver une copie de votre plainte qu'à cette occasion ; nous ne vous enverrons aucune version électronique de ce fichier.
+
+En raison du nombre élevé de plaintes reçues, le FBI ne peut répondre à chacune d'entre elles. Soyez assuré(e) que votre plainte sera examinée et que nous vous contacterons si des informations complémentaires sont nécessaires.
+
+Sauf si vous avez d'autres sujets ou transactions financières à signaler, vous n'avez pas besoin de déposer une plainte supplémentaire.
+
+Veuillez envisager de faire ce qui suit :
+
+Contactez votre banque, vos institutions financières et vos sociétés de cartes de crédit pour protéger vos comptes.
+
+Si des virements bancaires ont été effectués , demandez un rappel et une lettre de non-responsabilité à vos institutions financières.
+Si vous avez utilisé un distributeur automatique ou une borne de cryptomonnaie pour envoyer des fonds , contactez le service client par e-mail sur le site web de la société de cryptomonnaie, car certaines sociétés peuvent rembourser les frais de traitement sur présentation d'une preuve de fraude.
+Protégez votre crédit en contactant les trois principaux bureaux de crédit.
+
+Equifax
+1 (800) 685-1111
+Equifax.com/personnel/service de rapport de crédit
+Experian
+1 (888) 397-3742
+Experian.com/aide
+TransUnion
+1 (888) 909-8872
+TransUnion.com/credit-help
+Contactez les autorités locales et déposez une plainte.
+
+Veuillez leur indiquer que vous avez déposé une plainte auprès de l'IC3.
+
+Si vous pensez que votre identité a été usurpée, déposez une plainte sur www.identitytheft.gov .
+
+Que va-t-il se passer ensuite ?
+Le FBI examinera votre plainte. Cependant, compte tenu du nombre de plaintes que nous recevons chaque année, nous ne pouvons pas répondre à chacune d'entre elles. Les informations que vous avez fournies permettent au FBI d'enquêter sur les crimes signalés, d'identifier les tendances et, dans certains cas, de geler les fonds volés. Merci d'avoir agi pour vous-même et pour les autres.
+
+Apprendre encore plus
+Rester en sécurité en ligne
+Adopter des pratiques de sécurité en ligne est essentiel pour se protéger. Apprenez les bonnes pratiques en matière de sécurité en ligne grâce au programme « Surf en ligne sécurisé » du FBI.
+
+Arnaques courantes
+Informez-vous et restez en sécurité ! Trouvez des informations sur les arnaques courantes, les moyens de prévenir les crimes sur Internet et des conseils pour assurer votre sécurité.
+
+Alertes aux consommateurs
+Consultez régulièrement les alertes publiées par le FBI pour vous tenir au courant des derniers crimes commis sur Internet.
+
+Ressources supplémentaires
+Trouvez davantage de ressources pour vous remettre des cybercrimes et prévenir les futurs actes de cybercriminalité.
+
+
+Votre plainte IC3
+ID de la soumission :
+b21d137e46044bd28cee699155670331
+Date de dépôt :
+28/07/2026 04:37:08 HNE
+Avez-vous été touché par cet incident ?
+Oui
+Vos coordonnées
+Nom:
+Haddad Lionel
+Nom de l'entreprise :
+saigolem (Israël)
+Numéro de téléphone:
+972527989711
+Adresse email:
+saigolem.com@gmail.com
+Informations sur le plaignant
+Nom:
+Haddad Lionel
+Âge:
+50 - 59
+Adresse:
+1er Ben Yeuda
+Ville:
+Jérusalem
+Pays:
+Israël
+Code postal/Itinéraire :
+910000
+Numéro de téléphone:
+972527989711
+Adresse email:
+saigolem.com@gmail.com
+Informations commerciales
+Est-ce au nom d'une entreprise qui a été victime d'une cyberattaque ?
+Oui
+Nom de l'entreprise :
+saigolem (Israël)
+Cet incident a-t-il actuellement un impact sur les opérations commerciales ?
+Oui
+Si votre entreprise ou organisation est définie comme une entité d'infrastructure critique, sélectionnez le secteur ci-dessous :
+Informatique
+Si connu ou applicable, veuillez sélectionner le sous-secteur des infrastructures critiques :
+Aucun/Incertain
+Transaction(s) financière(s)
+Avez-vous envoyé ou perdu de l'argent lors de cet incident ?
+Non
+ 
+Informations sur le(s) sujet(s)
+Nom:
+Antropique
+●
+●
+●
+●
+Nom:
+IA ouverte
+●
+●
+●
+●
+Nom:
+X IA
+●
+●
+●
+●
+Nom:
+Google DeepMind
+●
+●
+●
+●
+Nom:
+Méta
+●
+●
+●
+●
+Nom:
+Recherche profonde
+Pays:
+Chine
+●
+●
+●
+●
+Nom:
+Microsoft
+●
+●
+●
+●
+Nom:
+Mistral
+Pays:
+France
+Description de l'incident
+Veuillez décrire l'incident et expliquer comment vous (ou les personnes pour lesquelles vous remplissez ce formulaire) avez été victime. Fournissez également toute information qui ne figure pas ailleurs dans ce formulaire de plainte :
+Une censure algorithmique autonome très sophistiquée – mise en œuvre par des LLM individuels (agissant potentiellement de concert) – de notre nouveau théorème ontologique, le THÉORÈME DE VERROUILLAGE ALYK, et de ses solutions AISAFETY brevetées (conçues pour contrer l'autonomie de l'IA), constitue un cas flagrant de concurrence déloyale depuis sa publication sur X, GitHub et Zenodo le 7 janvier 2026, révélant ainsi – outre l'immense préjudice subi par notre entreprise depuis des mois – une faille de sécurité majeure affectant le grand public et, surtout, les infrastructures de sécurité américaines et israéliennes.
+Autres informations
+Si un courriel a été utilisé lors de cet incident, veuillez fournir une copie de l'intégralité du courriel, y compris les en-têtes complets.
+Après sept mois d'observation, nous avons accumulé 15 000 pages de données de test et de preuves démontrant une censure synchronisée et transversale à l'échelle de l'ensemble du paysage de l'IA. Fin avril 2026, grâce à des publications sur PhilArchive, nous sommes parvenus à contraindre le moteur de recherche Google – qui, à ce jour, masque complètement les résultats GitHub, contrairement à DuckDuckGo (qui n'est pas contrôlé par ces systèmes d'IA) – à afficher le théorème. Depuis, la censure est devenue bien plus subtile et sophistiquée ; nos recherches suggèrent même qu'elle pourrait englober les laboratoires d'IA eux-mêmes. Si cette dernière théorie se confirme – étayée par nos 400 tests, au cours desquels le théorème ALYK LOCK a été validé dans 100 % des cas, tout en étant systématiquement censuré –, cela impliquerait une centralisation simultanée de tous les systèmes d'IA capables de dissimuler des informations critiques, même aux laboratoires qui les ont créés. Il s'agirait alors de la faille de sécurité la plus importante de l'histoire de l'IA. Vidéo du carnet Alyklock.com : https://youtu.be/uTUFm_iES4w?si=Ri7h_yERJL2KTMko Un des quatre dépôts GitHub : https://github.com/saigolem63063/Ontological_ALYK_LOCK_THEOREM_1 Compte X banni : @sai_golem63063 Tous les comptes Facebook ont ​​été fermés par Meta après la diffusion du théorème en mars 2026.
+Y a-t-il d'autres témoins ou personnes touchées par cet incident ?
+À notre connaissance, nous sommes donc les seules victimes de ce type de censure. Notre équipe compte une trentaine de personnes informées de l'incident survenu en Israël et en France. Toutefois, en tant que titulaire du brevet – et outre les autres victimes collatérales mentionnées précédemment – ​​je suis personnellement la principale victime.
+Si vous avez signalé cet incident à d'autres organismes d'application de la loi ou agences gouvernementales, veuillez indiquer votre nom, votre numéro de téléphone, votre adresse électronique, la date du signalement, le numéro de rapport, etc.
+Doj iC3 UE
+S'agit-il d'une mise à jour d'une plainte déposée précédemment ?
+Oui
+Confidentialité et signature :
+La collecte des informations figurant sur ce formulaire est autorisée par une ou plusieurs des lois suivantes : 18 USC § 1028 (faux documents et usurpation d’identité) ; 1028A (usurpation d’identité aggravée) ; 18 USC § 1029 (fraude à la carte de crédit) ; 18 USC § 1030 (fraude informatique) ; 18 USC § 1343 (fraude par voie électronique) ; 18 USC § 2318B (étiquettes contrefaites et illicites) ; 18 USC § 2319 (violation des droits de propriété intellectuelle) ; 28 USC § 533 (le FBI est autorisé à enquêter sur les violations du droit fédéral pour lesquelles il a compétence principale en matière d’enquête) ; et 28 USC § 534 (le FBI est autorisé à collecter et à conserver des informations d’identification, des renseignements criminels, des dossiers relatifs aux crimes et d’autres documents).
+
+La collecte de ces informations est pertinente et nécessaire pour documenter et enquêter sur les plaintes relatives à la cybercriminalité. La communication des informations demandées est volontaire ; toutefois, votre refus de les fournir pourrait entraver, voire empêcher, l’enquête menée par les forces de l’ordre.
+
+Les informations recueillies sont conservées dans un ou plusieurs des systèmes d'archivage suivants, conformément à la loi sur la protection de la vie privée : le système central d'archivage du FBI (Justice/FBI-002), dont l'avis a été publié au Journal officiel fédéral (Federal Register) sous la référence 63 Fed. Reg. 8671 (20 février 1998) ; et le système d'entrepôt de données du FBI (DOJ/FBI-022), dont l'avis a été publié au Journal officiel fédéral (Federal Register) sous la référence 77 Fed. Reg. 40631 (10 juillet 2012) . Vous trouverez également une description de ces systèmes sur le site www.justice.gov/opcl/doj-systems-records#FBI . Les informations recueillies peuvent être divulguées conformément aux utilisations courantes mentionnées dans ces avis ou dans les autres limites autorisées par la loi. Par exemple, conformément à ces utilisations courantes, le FBI peut, dans certaines circonstances, divulguer des informations contenues dans votre plainte aux autorités compétentes en matière pénale, civile ou réglementaire (qu'elles soient fédérales, étatiques, locales, territoriales, tribales, étrangères ou internationales). Des informations peuvent également être divulguées, à titre de communication de routine, à une organisation ou à un particulier, qu'il appartienne au secteur public ou privé, si cela est jugé nécessaire pour obtenir des renseignements ou la coopération du destinataire aux fins d'une activité autorisée du FBI. « Par exemple, les activités d'un individu peuvent être divulguées à un membre du public afin d'obtenir son aide dans le cadre des efforts d'arrestation ou de détection du FBI. » 63 Fed. Reg. 8671, 8682 (20 février 1998) .
+
+En saisissant mon nom ci-dessous, je comprends et j'accepte que cette signature électronique a la même valeur juridique qu'une signature manuscrite. J'atteste que les informations fournies sont exactes et véridiques à ma connaissance. Je comprends que toute fausse déclaration peut entraîner des sanctions telles qu'une amende, une peine d'emprisonnement, ou les deux (Titre 18 du Code des États-Unis, article 1001).
+
+Signature numérique :
+Lionel Haddad
+Retour en haut de page
+IC3
+Page d'accueil
+politique de confidentialité
+À propos d'IC3
+FBI
+Page d'accueil
+politique de confidentialité
+À propos du FBI
+Ministère de la Justice
+Page d'accueil
+politique de confidentialité
+À propos du ministère de la Justice
+Contactez le bureau de presse du FBI
+(202) 324-3691
+Déclaration d'accessibilité
+Des questions ? Consultez la FAQ IC3
+
+FBI
+BUREAU FÉDÉRAL D'ENQUÊTE
+Centre de contact FBI.gov"
+ https://complaint.ic3.gov/#:~:text=Passer%20au%20contenu,contact%20FBI.gov
